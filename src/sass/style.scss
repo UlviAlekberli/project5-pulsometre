@@ -9,6 +9,13 @@
     max-width: 950px;
     margin: 0 auto;
 }
+.promo{
+    background: url(../img/bg1.jpg) center (center/cover) no-repeat;
+}
+.consultation {
+    background: url(../img/bg2.jpg) center center/cover no-repeat;
+}
+
 @import 'blocks/promo';
 @import 'blocks/header';
 @import 'blocks/buttons';
